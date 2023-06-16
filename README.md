@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Sr. Frontend developer at GetWeb Inc LTD.
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently working on React Js
 - 👯 I’m looking to collaborate on MERN STACK DEVELOPER
 - 🤔 I’m looking for help with MERN STACK DEVELOPER
 - 💬 Ask me about anything.
