@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Frontend Developer and QA Tester at Opedia Technologies Ltd.
+- 🔭 I’m currently working as a Full-Stack Developer and QA Engineer at Opedia Technologies Ltd.
 - 🧪 I’m also working professionally as a Web & Software QA Tester
 - 🌱 I’m working with ReactJS, NextJS, and Webflow
 - 👯 I’m looking to collaborate on MERN Stack projects
